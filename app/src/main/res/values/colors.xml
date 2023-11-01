@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    custom input text field background color-->
+    <color name="custom_input_text_field_background_color">#E7E7F2</color>
+
+</resources>
